@@ -1,0 +1,58 @@
+﻿Created By AccessData® FTK® Imager 3.4.3.3 
+
+Case Information: 
+Acquired using: ADI3.4.3.3
+Case Number: 19992-CC
+Evidence Number: 9923
+Unique Description: 
+Examiner: Sean Hulbert
+Notes:  
+
+--------------------------------------------------------------
+
+Information for C:\ISSA_TOOLS\ForensicTools\shadowdrive1_evidence:
+
+Physical Evidentiary Item (Source) Information:
+[Device Info]
+ Source Type: Physical
+[Drive Geometry]
+ Cylinders: 1,305
+ Tracks per Cylinder: 255
+ Sectors per Track: 63
+ Bytes per Sector: 512
+ Sector Count: 20,971,520
+[Physical Drive Information]
+ Drive Model: VMware Virtual disk SCSI Disk Device
+ Drive Interface Type: SCSI
+ Removable drive: False
+ Source data size: 10240 MB
+ Sector count:    20971520
+[Computed Hashes]
+ MD5 checksum:    f337b26e312ea1282f8b93b6ce0ab271
+ SHA1 checksum:   c8b43e8d684d683d78bbb19fee82653ce31133ad
+
+Image Information:
+ Acquisition started:   Wed May 31 21:34:22 2017
+ Acquisition finished:  Wed May 31 21:39:10 2017
+ Segment list:
+  C:\ISSA_TOOLS\ForensicTools\shadowdrive1_evidence.E01
+  C:\ISSA_TOOLS\ForensicTools\shadowdrive1_evidence.E02
+  C:\ISSA_TOOLS\ForensicTools\shadowdrive1_evidence.E03
+
+Image Verification Results:
+ Verification started:  Wed May 31 21:39:11 2017
+ Verification finished: Wed May 31 21:41:59 2017
+ MD5 checksum:    f337b26e312ea1282f8b93b6ce0ab271 : verified
+ SHA1 checksum:   c8b43e8d684d683d78bbb19fee82653ce31133ad : verified
+
+Image Verification Results:
+ Verification started:  Sat May 02 08:12:43 2020
+ Verification finished: Sat May 02 08:15:53 2020
+ MD5 checksum:    f337b26e312ea1282f8b93b6ce0ab271 : verified
+ SHA1 checksum:   c8b43e8d684d683d78bbb19fee82653ce31133ad : verified
+
+Image Verification Results:
+ Verification started:  Sat May 02 19:42:02 2020
+ Verification finished: Sat May 02 19:46:14 2020
+ MD5 checksum:    f337b26e312ea1282f8b93b6ce0ab271 : verified
+ SHA1 checksum:   c8b43e8d684d683d78bbb19fee82653ce31133ad : verified

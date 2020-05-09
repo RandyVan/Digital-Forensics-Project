@@ -1,0 +1,722 @@
+[Common] 5/2/2020 9:42:25 AM : New case created "C:\Users\Administrator\Desktop\CaseRandyVan Digital Forensic Case File S2\CaseRandyVan Digital Forensic Case File S2.e3"
+    Name: CaseRandyVan Digital Forensic Case File S2
+    Product: E3
+    Description: 
+    Investigator name: 
+    Agency/Company: 
+    Address: 
+    Phone: 
+    Fax: 
+    Email: 
+    Comments: 
+[Common] 5/2/2020 9:42:25 AM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 9:43:15 AM : Stream try to be mounted by partition_plugin, type class pm::CResourceAdapter<class fs::encase_stream,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 9:43:15 AM : Evidence "Suspect Drive 02" added to case
+    Source: C:\ISSA_TOOLS\ForensicTools\shadowdrive1_evidence.E01
+    Mounted as: Auto-detect image
+    Mounted storage type(s): FS/Drive 
+[Common] 5/2/2020 9:43:15 AM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Content Analysis] 5/2/2020 9:43:34 AM : Starting sorting task for source(s):
+        e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/
+    Sorting options:     
+    Include files of undetected format (Unknown category): False
+    Recover and sort deleted data: False
+    Calculate Disk or Partition Hash: True
+    Image Analyzer options:
+        Use Image Analyzer: False
+
+    Internal Data options:
+        Sort recursively: True                
+        Skip plugins: 
+                        ntfs_plugin
+                        jtag_fsub
+                        fatx_plugin
+                        stfs_plugin
+                        ext_plugin
+                        hfs_plugin
+                        registry_plugin
+                        archive_plugin
+                        aol_import
+                        edb_5.5_import
+                        edb_import
+                        edb_2013_import
+                        gw_import
+                        nsf_import_new
+                        pst_import
+                        bat_plugin
+                        thunderbird_plugin
+                        dbx_import
+                        eudora_plugin
+                        eml_plugin
+                        windows_mail_plugin
+                        maildir_plugin
+                        emx_plugin
+                        yahoo_import
+                        icq_1999-2003a_import
+                        icq03bImport
+                        icq6Import
+                        icq7Import
+                        msnImport
+                        miranda_import
+                        skype_import
+                        hello_import
+                        trillian_import
+                        xdbf_plugin
+                        ie_cache_plugin
+                        firefox_plugin
+                        chrome_plugin
+                        sqlite_plugin
+                        storage_plugin
+
+                
+                Skip archives: 
+                        .msi
+                        .cab
+                        .chm
+                        .msi
+                        .cab
+                        .chm
+                        .msi
+                        .cab
+                        .chm
+                        .msi
+                        .cab
+                        .chm
+                        .msi
+                        .cab
+                        .chm
+                        .msi
+                        .cab
+                        .chm
+        Skip Unknown OLE streams: True
+[Content Analysis] 5/2/2020 9:43:34 AM : Content Analysis task started
+[Common] 5/2/2020 9:54:09 AM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Content Analysis] 5/2/2020 9:55:55 AM : Content Analysis task finished - 1,663 items sorted
+[Common] 5/2/2020 9:55:56 AM : Stream try to be mounted by partition_plugin, type class pm::CResourceAdapter<class fs::encase_stream,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 9:55:56 AM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 9:55:56 AM : Stream try to be mounted by partition_plugin, type class pm::CResourceAdapter<class fs::encase_stream,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 9:55:56 AM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 9:56:22 AM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 9:56:22 AM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Bookmarks] 5/2/2020 10:02:06 AM : New bookmark added: 
+    Name: projectmanager.crt
+    URL: e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Pictures_2278?item=projectmanager.crt_2265
+    Source: Storage node: CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition0/NTFS/Root/Users/Sam/Pictures/projectmanager.crt
+    Description: The file has an incorrect file type. This image can possibly be used to prove that the suspect is a project manger.
+[Common] 5/2/2020 10:03:19 AM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Bookmarks] 5/2/2020 10:05:04 AM : New bookmark added: 
+    Name: camaro2011.jpg
+    URL: e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Pictures_2278?item=camaro2011.jpg_2266
+    Source: Storage node: CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition0/NTFS/Root/Users/Sam/Pictures/camaro2011.jpg
+    Description: This car was possiblly brought with the proceeds of the fraud.
+[Search] 5/2/2020 10:05:53 AM : Starting search task for source(s):
+        e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser
+    Search parameters:
+    Recursive: True
+    Search Hex: False
+    Expression: Jamestown
+    Whole word: False
+    Match case: True
+    Code page: 
+    Locale: 
+        File mask: *.*
+        Email parameters:
+            Keyword Search Scope:
+                Anywhere: 
+        IndexPath: C:\Users\Administrator\Desktop\CaseRandyVan Digital Forensic Case File S2\CaseRandyVan Digital Forensic Case File S2_keyword_indexing
+        Subject: True
+        Body: True
+        Attachments file name: True
+        Attachments: True
+        Calendars: True
+        Contacts: True
+        Sender: True
+        Recipients: True
+        OtherLocations: True
+            
+[Search] 5/2/2020 10:05:53 AM : Search task started
+[Search] 5/2/2020 10:05:53 AM : Search task finished - 2 Places
+[Bookmarks] 5/2/2020 10:11:00 AM : New bookmark added: 
+    Name: secretnote.txt
+    URL: e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Documents_2255?item=secretnote.txt_2259
+    Source: Storage node: CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition0/NTFS/Root/Users/Sam/Documents/secretnote.txt
+    Description: The secretnote.txt file gives information about the suspect:  First/Last Name: Samual Jamestown Birthdate: April 1, 1984 Address: 192 Crestview Rd, Vista,CA 93482 Credit LimitL $23,094.00
+[Common] 5/2/2020 10:13:50 AM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 10:13:53 AM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Search] 5/2/2020 10:24:26 AM : Starting search task for source(s):
+        e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser
+    Search parameters:
+    Recursive: True
+    Search Hex: False
+    Expression: facebook
+    Whole word: False
+    Match case: True
+    Code page: 
+    Locale: 
+        File mask: *.*
+        Email parameters:
+            Keyword Search Scope:
+                Anywhere: 
+        IndexPath: C:\Users\Administrator\Desktop\CaseRandyVan Digital Forensic Case File S2\CaseRandyVan Digital Forensic Case File S2_keyword_indexing
+        Subject: True
+        Body: True
+        Attachments file name: True
+        Attachments: True
+        Calendars: True
+        Contacts: True
+        Sender: True
+        Recipients: True
+        OtherLocations: True
+            
+[Search] 5/2/2020 10:24:26 AM : Search task started
+[Search] 5/2/2020 10:24:26 AM : Search task finished - 4 Places
+[Search] 5/2/2020 10:29:26 AM : Starting search task for source(s):
+        e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser
+    Search parameters:
+    Recursive: True
+    Search Hex: False
+    Expression: twitter
+    Whole word: False
+    Match case: True
+    Code page: 
+    Locale: 
+        File mask: *.*
+        Email parameters:
+            Keyword Search Scope:
+                Anywhere: 
+        IndexPath: C:\Users\Administrator\Desktop\CaseRandyVan Digital Forensic Case File S2\CaseRandyVan Digital Forensic Case File S2_keyword_indexing
+        Subject: True
+        Body: True
+        Attachments file name: True
+        Attachments: True
+        Calendars: True
+        Contacts: True
+        Sender: True
+        Recipients: True
+        OtherLocations: True
+            
+[Search] 5/2/2020 10:29:26 AM : Search task started
+[Search] 5/2/2020 10:29:26 AM : Search task finished - 3 Places
+[Bookmarks] 5/2/2020 10:32:01 AM : New bookmark added: 
+    Name: XNM1D2P9.cookie
+    URL: e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Appdata_225/Local_247/Microsoft_255/Windows_337/INetCookies_425?item=XNM1D2P9.cookie_464
+    Source: Storage node: CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition0/NTFS/Root/Users/Sam/Appdata/Local/Microsoft/Windows/INetCookies/XNM1D2P9.cookie
+    Description: Cookie of Facebook.com
+[Bookmarks] 5/2/2020 10:32:39 AM : New bookmark added: 
+    Name: NGOSMTVO.cookie
+    URL: e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Appdata_225/Local_247/Microsoft_255/Windows_337/INetCookies_425?item=NGOSMTVO.cookie_446
+    Source: Storage node: CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition0/NTFS/Root/Users/Sam/Appdata/Local/Microsoft/Windows/INetCookies/NGOSMTVO.cookie
+    Description: Cookie of Twitter.com
+[Search] 5/2/2020 10:32:52 AM : Starting search task for source(s):
+        e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser
+    Search parameters:
+    Recursive: True
+    Search Hex: False
+    Expression: Linkedin
+    Whole word: False
+    Match case: True
+    Code page: 
+    Locale: 
+        File mask: *.*
+        Email parameters:
+            Keyword Search Scope:
+                Anywhere: 
+        IndexPath: C:\Users\Administrator\Desktop\CaseRandyVan Digital Forensic Case File S2\CaseRandyVan Digital Forensic Case File S2_keyword_indexing
+        Subject: True
+        Body: True
+        Attachments file name: True
+        Attachments: True
+        Calendars: True
+        Contacts: True
+        Sender: True
+        Recipients: True
+        OtherLocations: True
+            
+[Search] 5/2/2020 10:32:52 AM : Search task started
+[Search] 5/2/2020 10:32:53 AM : Search task finished - 3 Places
+[Bookmarks] 5/2/2020 10:35:41 AM : New bookmark added: 
+    Name: M0A2JCF5.cookie
+    URL: e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Appdata_225/Local_247/Microsoft_255/Windows_337/INetCookies_425?item=M0A2JCF5.cookie_443
+    Source: Storage node: CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition0/NTFS/Root/Users/Sam/Appdata/Local/Microsoft/Windows/INetCookies/M0A2JCF5.cookie
+    Description: Cookie of LinkedIn.com
+[Bookmarks] 5/2/2020 10:36:10 AM : New bookmark added: 
+    Name: U91CUPHK.cookie
+    URL: e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Appdata_225/Local_247/Microsoft_255/Windows_337/INetCookies_425?item=U91CUPHK.cookie_457
+    Source: Storage node: CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition0/NTFS/Root/Users/Sam/Appdata/Local/Microsoft/Windows/INetCookies/U91CUPHK.cookie
+    Description: Cookie of LinkedIn.com
+[Common] 5/2/2020 12:45:20 PM : Stream try to be mounted by partition_plugin, type class pm::CResourceAdapter<class fs::encase_stream,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 12:45:20 PM : Case "CaseRandyVan Digital Forensic Case File S2" opened
+[Common] 5/2/2020 12:45:20 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 12:45:20 PM : Evidence "Suspect Drive 02" loaded to case
+    Source: C:\ISSA_TOOLS\ForensicTools\shadowdrive1_evidence.E01
+    Mounted as: Auto-detect image
+    Mounted storage type(s): FS/Drive 
+[Common] 5/2/2020 12:45:20 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 12:45:23 PM : Stream try to be mounted by partition_plugin, type class pm::CResourceAdapter<class fs::encase_stream,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 12:45:23 PM : Case "CaseRandyVan Digital Forensic Case File S2" opened
+[Common] 5/2/2020 12:45:23 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 12:45:23 PM : Evidence "Suspect Drive 02" loaded to case
+    Source: C:\ISSA_TOOLS\ForensicTools\shadowdrive1_evidence.E01
+    Mounted as: Auto-detect image
+    Mounted storage type(s): FS/Drive 
+[Common] 5/2/2020 12:45:23 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 12:45:37 PM : Stream try to be mounted by partition_plugin, type class pm::CResourceAdapter<class fs::encase_stream,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 12:45:37 PM : Case "CaseRandyVan Digital Forensic Case File S2" opened
+[Common] 5/2/2020 12:45:37 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 12:45:37 PM : Evidence "Suspect Drive 02" loaded to case
+    Source: C:\ISSA_TOOLS\ForensicTools\shadowdrive1_evidence.E01
+    Mounted as: Auto-detect image
+    Mounted storage type(s): FS/Drive 
+[Common] 5/2/2020 12:45:37 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 1:02:08 PM : Stream try to be mounted by partition_plugin, type class pm::CResourceAdapter<class fs::encase_stream,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 1:02:09 PM : Case "CaseRandyVan Digital Forensic Case File S2" opened
+[Common] 5/2/2020 1:02:09 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 1:02:09 PM : Evidence "Suspect Drive 02" loaded to case
+    Source: C:\ISSA_TOOLS\ForensicTools\shadowdrive1_evidence.E01
+    Mounted as: Auto-detect image
+    Mounted storage type(s): FS/Drive 
+[Common] 5/2/2020 1:02:09 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Search] 5/2/2020 1:16:10 PM : Search task started
+[Search] 5/2/2020 1:16:10 PM : Starting search task for source(s):
+        e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser
+    Search parameters:
+    Recursive: True
+    Search Hex: False
+    Expression: Jamestown
+    Whole word: False
+    Match case: True
+    Code page: 
+    Locale: 
+        File mask: *.*
+        Email parameters:
+            Keyword Search Scope:
+                Anywhere: 
+        IndexPath: c:\users\administrator\desktop\randyvan digital forensic case file s2\randyvan digital forensic case file s2_keyword_indexing
+        Subject: True
+        Body: True
+        Attachments file name: True
+        Attachments: True
+        Calendars: True
+        Contacts: True
+        Sender: True
+        Recipients: True
+        OtherLocations: True
+            
+[Search] 5/2/2020 1:16:11 PM : Search task finished - 2 Places
+[Common] 5/2/2020 1:16:17 PM : Stream try to be mounted by partition_plugin, type class pm::CResourceAdapter<class fs::encase_stream,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 1:16:17 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 1:16:22 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stInterrupted, status data 0
+[Common] 5/2/2020 1:16:23 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stInterrupted, status data 0
+[Common] 5/2/2020 1:16:27 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stInterrupted, status data 0
+[Common] 5/2/2020 1:16:30 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stInterrupted, status data 0
+[Common] 5/2/2020 1:16:45 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stInterrupted, status data 0
+[Common] 5/2/2020 1:16:46 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stInterrupted, status data 0
+[Common] 5/2/2020 1:16:47 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stInterrupted, status data 0
+[Common] 5/2/2020 1:16:49 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stInterrupted, status data 0
+[Common] 5/2/2020 1:16:54 PM : Setting parameters for \"e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02\" : NTFS parameters
+    Search deleted files and folders: True
+    Recover folders structure for bad images: True
+    Add \"Trash\" folder to NTFS root: True
+    Add \"Partition Unallocated Space\" folder to NTFS root: True
+[Common] 5/2/2020 1:16:54 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Bookmarks] 5/2/2020 1:18:28 PM : Bookmark ":secretnote.txt" was updated:
+    Description: The secretnote.txt file gives information about the suspect:  First/Last Name: Samual Jamestown Birthdate: April 1, 1984 Address: 192 Crestview Rd, Vista,CA 93482 Credit LimitL $23,094.00  In additon the file also gives information abouth details of the credit card such as credit card number, credit card limit,
+[Bookmarks] 5/2/2020 1:18:58 PM : Bookmark ":secretnote.txt" was updated:
+    Description: The secretnote.txt file gives information about the suspect:  First/Last Name: Samual Jamestown Birthdate: April 1, 1984 Address: 192 Crestview Rd, Vista,CA 93482 Credit LimitL $23,094.00  In additon the file also gives information abouth details of the credit card such as credit card number, credit card limit, secret number and pin. 
+[Common] 5/2/2020 1:19:59 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Bookmarks] 5/2/2020 1:25:57 PM : New bookmark added: 
+    Name: cryptkeeper.eml
+    URL: e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Appdata_225/Local_247/Microsoft_255/Outlook_2260?item=cryptkeeper.eml_2263
+    Source: Storage node: CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition0/NTFS/Root/Users/Sam/Appdata/Local/Microsoft/Outlook/cryptkeeper.eml
+    Description: In this email we find out the email address of the suspect: sjamestown@bostontea.net  The email is sent from 
+[Bookmarks] 5/2/2020 1:27:48 PM : Bookmark ":cryptkeeper.eml" was updated:
+    Description: In this email we find out the email address of the suspect: sjamestown@bostontea.net  The email is sent from a co-conspiirator code named Skeleton key and describes 
+[Bookmarks] 5/2/2020 1:29:49 PM : Bookmark ":cryptkeeper.eml" was updated:
+    Description: In this email we find out the email address of the suspect: sjamestown@bostontea.net  The email is sent from a co-conspiirator code named Skeleton key and describes how they have obtained the keycodes to gain entry and how they would need Beth's code so they make her take blame.
+[Bookmarks] 5/2/2020 1:31:04 PM : Bookmark ":cryptkeeper.eml" was updated:
+    Description: In this email we find out the email address of the suspect: sjamestown@bostontea.net  The email is sent from a co-conspiirator code named Skeleton key and describes how they have obtained the keycodes to gain entry and how they would need Beth's code so they make her take blame.It is also mentioned that the code for 
+[Bookmarks] 5/2/2020 1:31:36 PM : Bookmark ":cryptkeeper.eml" was updated:
+    Description: In this email we find out the email address of the suspect: sjamestown@bostontea.net  The email is sent from a co-conspiirator code named Skeleton key and describes how they have obtained the keycodes to gain entry and how they would need Beth's code so they make her take blame.It is also mentioned that the code for Samual Jamestown is in the email.
+[Bookmarks] 5/2/2020 1:34:30 PM : Bookmark ":cryptkeeper.eml" was updated:
+    Description: In this email we find out the email address of the suspect: sjamestown@bostontea.net The email was sent from groups-noreply@linkedout.com  The email is sent from a co-conspiirator code named Skeleton key and describes how they have obtained the keycodes to gain entry and how they would need Beth's code so they make her take blame.It is also mentioned that the code for Samual Jamestown is in the email.
+[Bookmarks] 5/2/2020 1:38:28 PM : New bookmark added: 
+    Name: cryptkeeper2.eml
+    URL: e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Appdata_225/Local_247/Microsoft_255/Outlook_2260?item=cryptkeeper2.eml_2264
+    Source: Storage node: CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition0/NTFS/Root/Users/Sam/Appdata/Local/Microsoft/Outlook/cryptkeeper2.eml
+    Description: The email is sent from the take sender as the first email: groups-noreply@linkedout.com to sjamestown@bostontea.net  The email outlines that they've obtained Beth's access card and that the code is also in this email with the riddle " You can see me in Wter, but I can never get wet, what am I?"   Another note worth mentioning is that the Diablo sgns off this email and not skeletonkey. Diablo can potentially be another co-conspirator.
+[Common] 5/2/2020 6:47:48 PM : Stream try to be mounted by partition_plugin, type class pm::CResourceAdapter<class fs::encase_stream,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 6:47:48 PM : Case "CaseRandyVan Digital Forensic Case File S2" opened
+[Common] 5/2/2020 6:47:48 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 6:47:48 PM : Evidence "Suspect Drive 02" loaded to case
+    Source: C:\ISSA_TOOLS\ForensicTools\shadowdrive1_evidence.E01
+    Mounted as: Auto-detect image
+    Mounted storage type(s): FS/Drive 
+[Common] 5/2/2020 6:47:48 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Bookmarks] 5/2/2020 6:48:42 PM : Bookmark ":projectmanager.crt" was updated:
+    Description: The file has an incorrect file type. The file type is .crt instead of a .jpg file. This image can possibly be used to prove that the suspect is a project manger.
+[Bookmarks] 5/2/2020 6:50:26 PM : Bookmark ":XNM1D2P9.cookie" was updated:
+    Description: This is a cookie of Facebook.com.
+[Search] 5/2/2020 6:54:21 PM : Search task started
+[Search] 5/2/2020 6:54:21 PM : Starting search task for source(s):
+        e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser
+    Search parameters:
+    Recursive: True
+    Search Hex: False
+    Expression: bad
+    Whole word: False
+    Match case: True
+    Code page: 
+    Locale: 
+        File mask: *.*
+        Email parameters:
+            Keyword Search Scope:
+                Anywhere: 
+        IndexPath: c:\users\administrator\desktop\randyvan digital forensic case file s2\randyvan digital forensic case file s2_keyword_indexing
+        Subject: True
+        Body: True
+        Attachments file name: True
+        Attachments: True
+        Calendars: True
+        Contacts: True
+        Sender: True
+        Recipients: True
+        OtherLocations: True
+            
+[Search] 5/2/2020 6:54:22 PM : Search task finished - 46 Places
+[Search] 5/2/2020 6:54:37 PM : Starting search task for source(s):
+        e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser
+    Search parameters:
+    Recursive: True
+    Search Hex: False
+    Expression: badnotes
+    Whole word: False
+    Match case: True
+    Code page: 
+    Locale: 
+        File mask: *.*
+        Email parameters:
+            Keyword Search Scope:
+                Anywhere: 
+        IndexPath: c:\users\administrator\desktop\randyvan digital forensic case file s2\randyvan digital forensic case file s2_keyword_indexing
+        Subject: True
+        Body: True
+        Attachments file name: True
+        Attachments: True
+        Calendars: True
+        Contacts: True
+        Sender: True
+        Recipients: True
+        OtherLocations: True
+            
+[Search] 5/2/2020 6:54:37 PM : Search task started
+[Search] 5/2/2020 6:54:37 PM : Search task finished - 0 Places
+[Common] 5/2/2020 6:56:55 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 7:01:30 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 7:01:54 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 7:02:04 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 7:03:24 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 7:08:25 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Report] 5/2/2020 7:08:26 PM : Report type:HTML_Summary
+[Common] 5/2/2020 7:08:26 PM : ========================REPORT SETTINGS BEGIN========================
+[Common] 5/2/2020 7:08:26 PM : 
+    Include investigator info=True
+    Include VFS=False
+    Include case log=True
+    Export case log=True
+    Include bookmarks=Checked
+    Bookmarks insert thumbnails=True
+    Bookmarks export files=False
+    Bookmarks properties to include=
+ Name,Source,Description,Attached Data,
+	
+    Include NEMX=Checked
+    Mail include graphics=True
+    Mail export messages=False
+    Mail export type=eml_export
+    Mail properties to include=
+Subject,From,To,CC,BCC,Creation Date,Sent Date,Received Date,Last Modified Date,Message Size (bytes),Message Class,Read,Deleted,Importance,Priority,Info,
+	
+    Include Chat=Checked
+    Chat include Hello pictures=True
+    Chat properties to include=
+From,To (if available in the database),Time,Received (if available in the database),Text,
+	
+    Include FS=Checked
+    FS show by types= False
+    FS include graphics= True
+    FS include attributes= False
+    FS use filters=
+
+	FS info properties to add= Size (bytes),Creation time,Last access time,Last modification time,
+	FS file types to add= mgc_Documents,mgc_Email,mgc_Chats,mgc_Spreadsheets,mgc_Graphics,mgc_Databases,mgc_Executable,mgc_Compressed,mgc_Multimedia,mgc_Text,mgc_XML,mgc_Encrypted,mgc_FinancialFiles,mgc_GameConsoleFiles,mgc_Unknown,
+	FS file types to export= 
+	Include Ole= Checked
+    Ole general= True
+    Include Archives= Checked
+    Include E3 mobile data case= Checked
+    Include iTunes Backups= Checked
+    Include Internet Cache= Checked
+    Internet Cache properties to add=
+    Include File Storage= Checked
+Type,URL,Title,File Size,Visit Date,Type,URL,Title,File Size,Visit Date,Type,URL,Title,File Size,Visit Date,
+	Internet Cache Include pictures= True
+    Include Registry= Checked
+    Registry Key properties to add=
+Type,Key Path,
+	Registry Value properties to add=Data,Type,
+	Open Report on Finish=True
+	
+[Common] 5/2/2020 7:08:26 PM : ========================REPORT SETTINGS END==========================
+[Common] 5/2/2020 7:08:27 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 7:08:27 PM : Stream try to be mounted by partition_plugin, type class pm::CResourceAdapter<class fs::encase_stream,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 7:08:27 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 7:08:28 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 7:13:38 PM : Save report keeper
+[Common] 5/2/2020 7:13:38 PM : Start serialization of P2CModel.Reports.Reporters.SummaryReportClasses.ReportKeeper
+[Common] 5/2/2020 7:13:38 PM : Start XSLT transformation
+[Common] 5/2/2020 7:13:38 PM : Count of xml pages:1
+[Common] 5/2/2020 7:13:38 PM : transform: C:\Users\Administrator\Documents\E3 Cases\Reports\CaseRandyVan Digital Forensic Case File S2\CaseRandyVan Digital Forensic Case File S2.xml
+[Common] 5/2/2020 7:13:39 PM : Transformed to : C:\Users\Administrator\Documents\E3 Cases\Reports\CaseRandyVan Digital Forensic Case File S2\CaseRandyVan Digital Forensic Case File S2.html
+[Common] 5/2/2020 7:13:39 PM : Create MD5 file 
+[Report] 5/2/2020 7:13:39 PM : Report generation finished.
+[Exporting] 5/2/2020 7:26:10 PM : Starting the acquisition task for source(s):
+        camaro2011.jpg_2266
+        Destination folder:
+        C:\Users\Administrator\Desktop
+[Exporting] 5/2/2020 7:26:11 PM : The acquisition task started
+[Common] 5/2/2020 7:26:11 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Exporting] 5/2/2020 7:26:11 PM : Acquired
+        e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Pictures_2278/Pictures_2278/camaro2011.jpg_2266
+[Exporting] 5/2/2020 7:26:11 PM : The acquisition task finished. Exported: 0 folder(s), 1 file(s)
+[Exporting] 5/2/2020 7:27:16 PM : Starting the acquisition task for source(s):
+        XNM1D2P9.cookie_464
+        Destination folder:
+        C:\Users\Administrator\Desktop
+[Exporting] 5/2/2020 7:27:16 PM : The acquisition task started
+[Common] 5/2/2020 7:27:16 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Exporting] 5/2/2020 7:27:16 PM : Acquired
+        e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Appdata_225/Local_247/Microsoft_255/Windows_337/INetCookies_425/INetCookies_425/XNM1D2P9.cookie_464
+[Exporting] 5/2/2020 7:27:16 PM : The acquisition task finished. Exported: 0 folder(s), 1 file(s)
+[Exporting] 5/2/2020 7:28:59 PM : Starting the acquisition task for source(s):
+        projectmanager.crt_2265
+        Destination folder:
+        C:\Users\Administrator\Desktop
+[Exporting] 5/2/2020 7:28:59 PM : The acquisition task started
+[Common] 5/2/2020 7:28:59 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Exporting] 5/2/2020 7:28:59 PM : Acquired
+        e3://CaseRandyVan Digital Forensic Case File S2/Suspect Drive 02/Partition Parser/Partition2048/*binary_file/NTFS/Root/Users_36/Sam_40/Pictures_2278/Pictures_2278/projectmanager.crt_2265
+[Exporting] 5/2/2020 7:28:59 PM : The acquisition task finished. Exported: 0 folder(s), 1 file(s)
+[Common] 5/2/2020 7:33:41 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Report] 5/2/2020 7:33:41 PM : Report type:HTML_Summary
+[Common] 5/2/2020 7:33:41 PM : ========================REPORT SETTINGS BEGIN========================
+[Common] 5/2/2020 7:33:41 PM : 
+    Include investigator info=True
+    Include VFS=False
+    Include case log=True
+    Export case log=True
+    Include bookmarks=Checked
+    Bookmarks insert thumbnails=True
+    Bookmarks export files=False
+    Bookmarks properties to include=
+ Name,Source,Description,Attached Data,
+	
+    Include NEMX=Checked
+    Mail include graphics=True
+    Mail export messages=False
+    Mail export type=eml_export
+    Mail properties to include=
+Subject,From,To,CC,BCC,Creation Date,Sent Date,Received Date,Last Modified Date,Message Size (bytes),Message Class,Read,Deleted,Importance,Priority,Info,
+	
+    Include Chat=Checked
+    Chat include Hello pictures=True
+    Chat properties to include=
+From,To (if available in the database),Time,Received (if available in the database),Text,
+	
+    Include FS=Checked
+    FS show by types= False
+    FS include graphics= True
+    FS include attributes= False
+    FS use filters=
+
+	FS info properties to add= Size (bytes),Creation time,Last access time,Last modification time,
+	FS file types to add= mgc_Documents,mgc_Email,mgc_Chats,mgc_Spreadsheets,mgc_Graphics,mgc_Databases,mgc_Executable,mgc_Compressed,mgc_Multimedia,mgc_Text,mgc_XML,mgc_Encrypted,mgc_FinancialFiles,mgc_GameConsoleFiles,mgc_Unknown,
+	FS file types to export= 
+	Include Ole= Checked
+    Ole general= True
+    Include Archives= Checked
+    Include E3 mobile data case= Checked
+    Include iTunes Backups= Checked
+    Include Internet Cache= Checked
+    Internet Cache properties to add=
+    Include File Storage= Checked
+Type,URL,Title,File Size,Visit Date,Type,URL,Title,File Size,Visit Date,Type,URL,Title,File Size,Visit Date,
+	Internet Cache Include pictures= True
+    Include Registry= Checked
+    Registry Key properties to add=
+Type,Key Path,
+	Registry Value properties to add=Data,Type,
+	Open Report on Finish=True
+	
+[Common] 5/2/2020 7:33:41 PM : ========================REPORT SETTINGS END==========================
+[Common] 5/2/2020 7:33:41 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 7:33:54 PM : Save report keeper
+[Common] 5/2/2020 7:33:54 PM : Start serialization of P2CModel.Reports.Reporters.SummaryReportClasses.ReportKeeper
+[Common] 5/2/2020 7:33:55 PM : Start XSLT transformation
+[Common] 5/2/2020 7:33:55 PM : Count of xml pages:1
+[Common] 5/2/2020 7:33:55 PM : transform: C:\Users\Administrator\Desktop\CaseRandyVan Digital Forensic Case File S2\CaseRandyVan Digital Forensic Case File S2.xml
+[Common] 5/2/2020 7:33:55 PM : Transformed to : C:\Users\Administrator\Desktop\CaseRandyVan Digital Forensic Case File S2\CaseRandyVan Digital Forensic Case File S2.html
+[Common] 5/2/2020 7:33:55 PM : Create MD5 file 
+[Report] 5/2/2020 7:33:55 PM : Report generation finished.
+[Common] 5/2/2020 8:01:28 PM : Stream try to be mounted by partition_plugin, type class pm::CResourceAdapter<class fs::encase_stream,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:01:28 PM : Case "CaseRandyVan Digital Forensic Case File S2" opened
+[Common] 5/2/2020 8:01:28 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 8:01:29 PM : Evidence "Suspect Drive 02" loaded to case
+    Source: C:\ISSA_TOOLS\ForensicTools\shadowdrive1_evidence.E01
+    Mounted as: Auto-detect image
+    Mounted storage type(s): FS/Drive 
+[Common] 5/2/2020 8:01:29 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Common] 5/2/2020 8:03:07 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Report] 5/2/2020 8:03:08 PM : Report type:SimpleText
+[Common] 5/2/2020 8:03:08 PM : ========================REPORT SETTINGS BEGIN========================
+[Common] 5/2/2020 8:03:08 PM : 
+    Include investigator info=True
+    Include VFS=False
+    Include case log=True
+    Export case log=True
+    Include bookmarks=All
+    Bookmarks insert thumbnails=True
+    Bookmarks export files=True
+    Bookmarks properties to include=
+ Name,Path,Source,Description,Attached Data,Bookmark Created,Bookmark Last Modified,Attached Data Information,
+	
+    Include NEMX=Checked
+    Mail include graphics=True
+    Mail export messages=False
+    Mail export type=eml_export
+    Mail properties to include=
+Subject,From,To,CC,BCC,Creation Date,Sent Date,Received Date,Last Modified Date,Message Size (bytes),Message Class,Read,Deleted,Importance,Priority,Info,
+	
+    Include Chat=Checked
+    Chat include Hello pictures=True
+    Chat properties to include=
+From,To (if available in the database),Time,Received (if available in the database),Text,
+	
+    Include FS=Checked
+    FS show by types= False
+    FS include graphics= True
+    FS include attributes= False
+    FS use filters=
+
+	FS info properties to add= Size (bytes),Creation time,Last access time,Last modification time,
+	FS file types to add= mgc_Documents,mgc_Email,mgc_Chats,mgc_Spreadsheets,mgc_Graphics,mgc_Databases,mgc_Executable,mgc_Compressed,mgc_Multimedia,mgc_Text,mgc_XML,mgc_Encrypted,mgc_FinancialFiles,mgc_GameConsoleFiles,mgc_Unknown,
+	FS file types to export= 
+	Include Ole= Checked
+    Ole general= True
+    Include Archives= Checked
+    Include E3 mobile data case= Checked
+    Include iTunes Backups= Checked
+    Include Internet Cache= Checked
+    Internet Cache properties to add=
+    Include File Storage= Checked
+Type,URL,Title,File Size,Visit Date,Type,URL,Title,File Size,Visit Date,Type,URL,Title,File Size,Visit Date,
+	Internet Cache Include pictures= True
+    Include Registry= Checked
+    Registry Key properties to add=
+Type,Key Path,
+	Registry Value properties to add=Data,Type,
+	Open Report on Finish=True
+	
+[Common] 5/2/2020 8:03:08 PM : ========================REPORT SETTINGS END==========================
+[Common] 5/2/2020 8:03:08 PM : Serialize report head...
+[Common] 5/2/2020 8:03:08 PM : Serialize general information...
+[Common] 5/2/2020 8:03:08 PM : Serialize summary...
+[Common] 5/2/2020 8:03:08 PM : Serialize information about case...
+[Common] 5/2/2020 8:03:08 PM : Serialize bookmarks...
+[Common] 5/2/2020 8:03:08 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:03:08 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:03:08 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:03:08 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:03:08 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:03:08 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:03:08 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:03:08 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:03:09 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:03:09 PM : Serialize search result...
+[Common] 5/2/2020 8:03:09 PM : Serialize evidences...
+[Common] 5/2/2020 8:03:09 PM : Serialize sorted files...
+[Common] 5/2/2020 8:03:09 PM : Serialize conclusion...
+[Common] 5/2/2020 8:03:09 PM : Serialize footer...
+[Common] 5/2/2020 8:03:09 PM : Save Report From Guard
+[Common] 5/2/2020 8:03:09 PM : Start XSLT transformation
+[Common] 5/2/2020 8:03:09 PM : Count of xml pages:1
+[Common] 5/2/2020 8:03:09 PM : transform: C:\Users\Administrator\Documents\E3 Cases\Reports\CaseRandyVan Digital Forensic Case File S2 (1)\CaseRandyVan Digital Forensic Case File S2.xml
+[Common] 5/2/2020 8:03:09 PM : Transformed to : C:\Users\Administrator\Documents\E3 Cases\Reports\CaseRandyVan Digital Forensic Case File S2 (1)\CaseRandyVan Digital Forensic Case File S2.txt
+[Common] 5/2/2020 8:03:09 PM : Create MD5 file 
+[Report] 5/2/2020 8:03:09 PM : Report generation finished.
+[Common] 5/2/2020 8:05:29 PM : Case \"CaseRandyVan Digital Forensic Case File S2\" saved
+[Report] 5/2/2020 8:05:30 PM : Report type:HTML_Investigator
+[Common] 5/2/2020 8:05:30 PM : ========================REPORT SETTINGS BEGIN========================
+[Common] 5/2/2020 8:05:30 PM : 
+    Include investigator info=True
+    Include VFS=False
+    Include case log=True
+    Export case log=True
+    Include bookmarks=All
+    Bookmarks insert thumbnails=True
+    Bookmarks export files=True
+    Bookmarks properties to include=
+ Name,Path,Source,Description,Attached Data,Bookmark Created,Bookmark Last Modified,Attached Data Information,
+	
+    Include NEMX=Checked
+    Mail include graphics=True
+    Mail export messages=False
+    Mail export type=eml_export
+    Mail properties to include=
+Subject,From,To,CC,BCC,Creation Date,Sent Date,Received Date,Last Modified Date,Message Size (bytes),Message Class,Read,Deleted,Importance,Priority,Info,
+	
+    Include Chat=Checked
+    Chat include Hello pictures=True
+    Chat properties to include=
+From,To (if available in the database),Time,Received (if available in the database),Text,
+	
+    Include FS=Checked
+    FS show by types= False
+    FS include graphics= True
+    FS include attributes= False
+    FS use filters=
+
+	FS info properties to add= Size (bytes),Creation time,Last access time,Last modification time,
+	FS file types to add= mgc_Documents,mgc_Email,mgc_Chats,mgc_Spreadsheets,mgc_Graphics,mgc_Databases,mgc_Executable,mgc_Compressed,mgc_Multimedia,mgc_Text,mgc_XML,mgc_Encrypted,mgc_FinancialFiles,mgc_GameConsoleFiles,mgc_Unknown,
+	FS file types to export= 
+	Include Ole= Checked
+    Ole general= True
+    Include Archives= Checked
+    Include E3 mobile data case= Checked
+    Include iTunes Backups= Checked
+    Include Internet Cache= Checked
+    Internet Cache properties to add=
+    Include File Storage= Checked
+Type,URL,Title,File Size,Visit Date,Type,URL,Title,File Size,Visit Date,Type,URL,Title,File Size,Visit Date,
+	Internet Cache Include pictures= True
+    Include Registry= Checked
+    Registry Key properties to add=
+Type,Key Path,
+	Registry Value properties to add=Data,Type,
+	Open Report on Finish=True
+	
+[Common] 5/2/2020 8:05:30 PM : ========================REPORT SETTINGS END==========================
+[Common] 5/2/2020 8:05:30 PM : Serialize report head...
+[Common] 5/2/2020 8:05:30 PM : Serialize general information...
+[Common] 5/2/2020 8:05:30 PM : Serialize summary...
+[Common] 5/2/2020 8:05:30 PM : Serialize information about case...
+[Common] 5/2/2020 8:05:30 PM : Serialize bookmarks...
+[Common] 5/2/2020 8:05:30 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:05:30 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:05:30 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:05:30 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:05:30 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:05:30 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:05:30 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:05:30 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:05:30 PM : Stream try to be mounted by ntfs_plugin, type class pm::CResourceAdapter<class fs::partition_stream_ex,struct pm::CHeapHandler> * __ptr64, operation status stSuccess, status data 0
+[Common] 5/2/2020 8:05:30 PM : Serialize search result...
